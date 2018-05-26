@@ -34,7 +34,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>websnapshots</id>
-    <url>http://localhost:8081/nexus/content/repositories/websnapshots</url>
+    <url>http://35.154.215.245:8081/nexus/content/repositories/websnapshots</url>
   </snapshotRepository>
 </distributionManagement>
 </project>

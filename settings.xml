@@ -1,0 +1,15 @@
+<settings>
+<servers>
+	<server>
+	<id>websnapshots</id>
+	<username>admin</username>
+	<password>admin123</password>
+	</server>
+	 <server>
+  		 <id>TomcatServer</id>
+  		 <username>tomcat1</username>
+  		 <password>tomcat1</password>
+  	 </server>
+
+</servers>
+</settings>

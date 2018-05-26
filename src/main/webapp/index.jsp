@@ -2,7 +2,9 @@
 <html>
  
    <head> 
-      <title>HTML Inline CSS</title> 
+
+
+      <title>HTML Inline CSs avinash</title> 
    </head>
  
    <body> 
